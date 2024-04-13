@@ -1,10 +1,10 @@
 {
     "addAlbumIDBeforeFolder": false, 
-    "addExplicitTag": false, 
+    "addExplicitTag": true, 
     "addHyphen": true, 
     "addLyrics": true, 
     "addTypeFolder": false, 
-    "addYear": false, 
+    "addYear": true, 
     "albumFolderFormat": "{ArtistName}/{Flag} {AlbumTitle} [{AlbumID}] [{AlbumYear}]", 
     "apiKeyIndex": 4, 
     "artistBeforeTitle": false, 
@@ -22,7 +22,7 @@
     "showProgress": false, 
     "showTrackInfo": false, 
     "trackFileFormat": "{TrackTitle} - {ArtistName}", 
-    "usePlaylistFolder": false, 
-    "useTrackNumber": false, 
-    "videoQuality": "P360"
+    "usePlaylistFolder": true, 
+    "useTrackNumber": true, 
+    "videoQuality": "P1080"
 }

@@ -80,13 +80,13 @@ Flags are :
 # ALBUM TEXT FORMAT...............................................................
 #
 #
-    ALBUM_DETAILS = """
-💽 <b>Title :</b> {0}
-👤 <b>Artist :</b> {1}
-📅 <b>Release Date :</b> {2}
-📀 <b>Number of Tracks :</b> {3}
-🕒 <b>Duration :</b> {4}
-🔢 <b>Number of Volumes :</b> {5}
+    ALBUM_DETAILS = f"""
+<code>Judul :</code> {0}
+<code>Artis :</code> {1}
+<code>Tanggal rilis :</code> {2}
+<code>Total Trek :</code> {3}
+<code>Durasi :</code> {4}
+<code>Jumlah Volume :</code> {5}
 """
 
     # For keeping the fancy designs
